@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 About Me<br><br>I'm a passionate **Full-Stack Developer** dedicated to building fast, responsive, and highly efficient web applications. I love solving complex structural challenges on the backend while crafting smooth, interactive user experiences on the frontend.<br><br>- 🛠️ **What I Do:** Build scalable web applications, design clean UIs, and automate workflows.<br>- ⚡ **Fun Fact:** I love diving deep into backend logic and finding creative solutions to optimize performance and automation.<br>- 💬 **Ask Me About:** React, Node.js, API integrations, and web automation.<br>- 📫 **How to reach me:** [salmansalluzz56@gmail.com/https://www.linkedin.com/in/mohamed-salman-08146b301]
+## 🚀 About Me<br><br>I'm a passionate **Full-Stack Developer** dedicated to building fast, responsive, and highly efficient web applications. I love solving complex structural challenges on the backend while crafting smooth, interactive user experiences on the frontend.<br><br>- 🛠️ **What I Do:** Build scalable web applications, design clean UIs, and automate workflows.<br>- ⚡ **Fun Fact:** I love diving deep into backend logic and finding creative solutions to optimize performance and automation.<br>- 💬 **Ask Me About:** React, Node.js, API integrations, and web automation.<br>- 📫 **How to reach me:** [salmansalluzz56@gmail.com]
 
 
 ## 🌐 Socials:
